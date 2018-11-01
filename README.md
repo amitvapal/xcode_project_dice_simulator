@@ -10,9 +10,7 @@ In this project, I created an unloaded unloaded six face die that displays rando
 ## Release History
 
 ## Author
-* **Amitva Pal** - [Xcode Project 001:Dice Simulator](https://github.com/rbpal/Udacity_DAND_2018_TermOne_Project_1_Explore-Weather-Trends)
+* **Amitva Pal** - [Xcode Project 001:Dice Simulator](https://github.com/amitvapal/xcode_project_dice_simulator)
 
 ## Acknowledgments
-
-
-
+ 
